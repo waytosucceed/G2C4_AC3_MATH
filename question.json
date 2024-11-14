@@ -1,0 +1,112 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "If Zara’s family decided to stay for 7 days in the village, which of the following is the cardinal number for 7?",
+    "options": [
+      "Seven",
+      "Fifteen",
+      "Twenty",
+      "Seventy"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Zara’s family packed 40 snacks for the journey. Which number shows how many snacks they packed?",
+    "options": [
+      "Four",
+      "Forty",
+      "Fourteen",
+      "Fifty"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q3",
+    "question": "If Zara and her family travelled for 50 kilometres to reach the village, how would you write 50 in words?",
+    "options": [
+      "Fifteen",
+      "Fifty",
+      "Fifth",
+      "Five"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q4",
+    "question": "They are going to visit 10 tourist spots in the village. What is the cardinal number for 10?",
+    "options": [
+      "Twentieth",
+      "Tenth",
+      "Ten",
+      "Eighth"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q5",
+    "question": "They packed a total of 25 clothes for the trip. Which of the following is the correct cardinal number for 25?",
+    "options": [
+      "Thirty",
+      "Twenty",
+      "Fifteen",
+      "Twenty-five"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q6",
+    "question": "Zara packed 18 books for her trip. Which number shows how many books she packed?",
+    "options": [
+      "Eight",
+      "Eighteen",
+      "Eighteen-five",
+      "Eighty"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q7",
+    "question": "They visited 9 different shops in the village. What is the cardinal number for 9?",
+    "options": [
+      "Ninth",
+      "Nine",
+      "Nineteenth",
+      "Tenth"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q8",
+    "question": "Zara packed 20 souvenirs for her trip. Which of the following is the correct cardinal number for 20?",
+    "options": [
+      "Twenty-one",
+      "Twenty-five",
+      "Twenty",
+      "Ten"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q9",
+    "question": "Zara took 12 postcards from the village. Which option shows how many postcards she took?",
+    "options": [
+      "Twelve",
+      "Thirteen",
+      "One",
+      "Eleven"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q10",
+    "question": "They packed 28 apples for her journey. Which of the following is the correct cardinal number for 28?",
+    "options": [
+      "Twenty-eight",
+      "Twenty",
+      "Thirty",
+      "Twenty-five"
+    ],
+    "correct": 0
+  }
+]
